@@ -7,7 +7,7 @@ Curso de Web Design Completo.
 Objetivo: Treinamento para desenvolver as seguintes habilidades:
 
 <ul>
-  <li>Terioa do Design</li>
+  <li>Teoria do Design</li>
   <li>Prototipação - Adobe XD</li>
   <li>HTML-CSS-JAVASCRIPT</li>
   <li>Posicionamento CSS</li>
