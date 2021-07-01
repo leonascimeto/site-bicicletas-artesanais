@@ -13,4 +13,4 @@ Objetivo: Treinamento para desenvolver as seguintes habilidades:
   <li>Posicionamento CSS</li>
 </ul>
 
-<a href=" https://leonascimeto.github.io/site-bicicletas-artesanais/" target="_blank">Acessar Bikecraft</a>
+<a href="https://leonascimeto.github.io/site-bicicletas-artesanais/" target="_blank">Acessar Bikecraft</a>
